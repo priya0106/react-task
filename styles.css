@@ -1,0 +1,11 @@
+.login-form {
+  padding-top: 10%;
+  padding-left: 15% !important;
+}
+
+@media (min-width: 768px){
+.col-md-6 {
+  flex: 1 0 50% !important;
+  max-width: 80% !important;
+}
+}
